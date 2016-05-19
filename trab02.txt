@@ -1,0 +1,9 @@
+4 25.5 0.10 35.0 0.12 60.0 0.15
+Maria José
+3222-1234 1 120
+XY Informática
+3223-6666 2 457
+Joaquin Silva
+3222-3344 1 50
+Antônio Carlos
+3212-6622 0 134
